@@ -19,5 +19,5 @@ Rather than have lots of smaller, regularly set pieces of homework, this term yo
 | Basic | Medium | Challenge |
 |-------|--------|-----------|
 | [![MC](Resources/exam.png)](/HW/1/)   | [![MC](Resources/mc.png)](/HW/3/)   | [![MC](Resources/python.png)](/HW/5/)       |
-| [![MC](Resources/python.png)](/HW/2/)   | [![MC](Resources/sonic-pi.png)](/HW/4/)    | [![MC](Resources/braing.png)](/HW/6/)       |
+| [![MC](Resources/python.png)](/HW/2/)   | [![MC](Resources/sonic-pi.png)](/HW/4/)    | [![MC](Resources/brain.png)](/HW/6/)       |
 
