@@ -18,6 +18,6 @@ Rather than have lots of smaller, regularly set pieces of homework, this term yo
 
 | Basic | Medium | Challenge |
 |-------|--------|-----------|
-| [HW1](/HW/1/)  | [HW4](/HW/3/)   | [HW7](/HW/5/)      |
+| [HW1](/HW/1/)  | [![MC](Resources/mc.png)](/HW/3/)   | [HW7](/HW/5/)      |
 | [HW2](/HW/2/)  | [HW5](/HW/4/)   | [HW8](/HW/6/)      |
 
