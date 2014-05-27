@@ -1,11 +1,4 @@
-yr10_SummerHW
-=============
-
-Homework tasks for Year 10 Computer Science (Summer term)
-
-
-| Basic | Medium | Challenge |
-|-------|--------|-----------|
-| cell  | cell   | cell      |
-| cell  | cell   | cell      |
-| cell  | cell   | cell      |
+#Activity 1
+<img src="Resources/exam.png" width=50px alt="Tick Sheet">
+##Exam Questions
+---
