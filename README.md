@@ -1,5 +1,5 @@
-#Year 10 - Computer Science#
-##Summer Home Learning Takeaway.##
+#Year 10 - Computer Science
+##Summer Home Learning Takeaway. <img src="Resources/sun.png" height=50px>
 ---
 
 ###Introduction###
