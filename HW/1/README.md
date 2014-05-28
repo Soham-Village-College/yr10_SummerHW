@@ -5,19 +5,20 @@
 
 ###Edit this document and answer the questions in the sections surrounded by ```.
 There are 30 marks available and are awarded grades as follows:
-Score|Grade
------|-----
-<6|U
-6+|G
-9+|F
-12+|E
-15+|D
-18+|C
-21+|B
-24+|A
-27+|A*
 
+|Score|Grade|
+|-----|-----|
+|<6|U|
+|6+|G|
+|9+|F|
+|12+|E|
+|15+|D|
+|18+|C|
+|21+|B|
+|24+|A|
+|27+|A*|
 
+---
 ####Data Representation
 
 #####1 - Why do we represent data using binary when using computers *(1 mark)*
@@ -54,7 +55,7 @@ answer here
 ```
 answer here
 ```
-
+---
 ####Errors
 #####6 - This program is supposed to find the mean of a list of numbers and print it out for the user:
 ```
@@ -86,13 +87,13 @@ answer here
 ```
 answer here
 ```
-
+---
 ####Algortithms
 #####7 - Write an **algorithm** that if given a list of numbers could find the largest. Try to use [pseudocode](http://filestore2.aqa.org.uk/subjects/AQA-GCSE-COMPSCI-W-TRB-PSEU.PDF).
 ```
 answer here
 ```
-
+---
 ####Networking
 #####8 - Research the following methods (*topologies*) for connecting devices to a network. In each case give a description and at least 1 advantage and 1 disadvantage.
 
