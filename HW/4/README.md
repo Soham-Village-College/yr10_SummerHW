@@ -1,4 +1,2 @@
-#Activity 1 
-
-##Exam Questions <img src="../../Resources/exam.png" width=50px alt="Tick Sheet">
+#Sonic Pi <img src="../../Resources/sonic-pi.png" width=50px alt="Tick Sheet">
 ---

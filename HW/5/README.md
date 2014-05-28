@@ -1,4 +1,2 @@
-#Activity 1 
-
-##Exam Questions <img src="../../Resources/exam.png" width=50px alt="Tick Sheet">
+#Python <img src="../../Resources/python.png" width=50px alt="python">
 ---

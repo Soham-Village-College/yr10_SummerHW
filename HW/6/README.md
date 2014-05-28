@@ -35,4 +35,17 @@ answer here
 
 ##Extension
 Can you represent the algorithm for this problem using a computer program (any language)?
-For text based programs you
+eg you could show each step in the algorithm using text:
+
+```
+Step 25       SSSSSScc..............SSSSSSSSSSSSSSSSSSS
+
+
+c = child
+S = solider
+```       
+
+For text based programs like pytohn you should create a new file in you repository
+![Add new](../../Resources/new.png)
+
+For anything else (eg scratch), email you teacher with the file and say you've done so in the comments.
