@@ -4,7 +4,7 @@
 
 ###Introduction###
 Rather than have lots of smaller, regularly set pieces of homework, this term you will have all your homework set at the beginning and you must choose which ones you will complete.
-- You must choose to complete 4 of the tasks below.
+- You must choose to complete **3** of the tasks below.
 - You can complete your solution either on your pi or a PC.
 - You complete code/answer must be handed in on github.
  
@@ -14,9 +14,10 @@ Rather than have lots of smaller, regularly set pieces of homework, this term yo
 3. Each time you commit a version of your code Github, add a **dated** comment to describe your changes.
 4. Once an activity is complete you should submit a pull request with a comment about which task is ready for marking.
 5. Don't leave the tasks until the last minute!
+6. If you need help, ask others, come and see me, search the web or attend a catch up session.
 
 
-| Basic | Medium | Challenge |
+| **Basic** | **Medium** | **Challenge** |
 |-------|--------|-----------|
 | [![MC](Resources/exam.png)](/HW/1/)   | [![MC](Resources/mc.png)](/HW/3/)   | [![MC](Resources/python.png)](/HW/5/)       |
 | [![MC](Resources/python.png)](/HW/2/)   | [![MC](Resources/sonic-pi.png)](/HW/4/)    | [![MC](Resources/brain.png)](/HW/6/)       |
