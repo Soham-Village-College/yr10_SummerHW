@@ -3,7 +3,7 @@
 ##Composing with code
 For this task you will need to use your raspberry pi with sonic pi installed.
 
-###Installing Version 1
+#####Installing Version 1
 Enter the following commands at the terminal.
 ```bash
 sudo apt-get update
@@ -11,7 +11,7 @@ sudo apt-get install sonic-pi
 ```
 Sonic pi should now be available in you menu, under education.
 
-###Installing Version 2 (better)
+#####Installing Version 2 (better)
 This is still in testing and needs to be installed following instructions [here](http://sonic-pi.net/get-v2.0)
 
 ##Grading
