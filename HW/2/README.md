@@ -13,9 +13,9 @@ For this task you will either need to use your raspberry pi or a windows machine
 
 ##The task
 Write a program which will:
-1. Ask the user to choose a timestable.
-2. Check the user has entered something sensible.
-3. Display the times table for that number up to 12x. eg
+1 - Ask the user to choose a timestable.
+2 - Check the user has entered something sensible.
+3 - Display the times table for that number up to 12x. eg
 ```
 1 x 7 = 7
 2 x 7 = 14
