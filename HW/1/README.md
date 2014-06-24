@@ -3,19 +3,19 @@
 ##Instructions
 Edit this document and answer the questions in the sections surrounded by ```.
 
-There are 30 marks available and are awarded grades as follows:
+There are **24** marks available and are awarded grades as follows:
 
 |Score|Grade|
 |-----|-----|
-|<6|U|
-|6+|G|
-|9+|F|
-|12+|E|
-|15+|D|
-|18+|C|
-|21+|B|
-|24+|A|
-|27+|A*|
+|<3|U|
+|5+|G|
+|7+|F|
+|9+|E|
+|11+|D|
+|13+|C|
+|15+|B|
+|17+|A|
+|19+|A*|
 
 
 ##Data Representation
